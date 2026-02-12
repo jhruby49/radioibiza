@@ -1,5 +1,4 @@
-
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Radio Ibiza TV" tvg-logo="https://githack.com/jhruby49/radioibiza/main/radioibiza-min.png",Radio Ibiza TV
+#EXTINF:-1 tvg-name="Radio Ibiza TV" tvg-logo="https://raw.githubusercontent.com/jhruby49/radioibiza/main/logos/radioibiza-min.png",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
